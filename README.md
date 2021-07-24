@@ -1,6 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_960_720.jpg" alt="cover" />
-</div>
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 </p>
@@ -24,7 +21,7 @@
 <a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
 <a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=gatsby&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gatsby.svg'> </a>
-<a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
+<a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextjs.svg'> </a>
 <a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=graphql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
 <a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
 <a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=electron&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/electron.svg'> </a>

@@ -21,7 +21,7 @@
 <a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
 <a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=gatsby&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gatsby.svg'> </a>
-<a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextjs.svg'> </a>
+<a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
 <a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=graphql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
 <a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
 <a href= https://github.com/Mattee37?tab=repositories&q=&type=&language=electron&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/electron.svg'> </a>

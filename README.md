@@ -12,7 +12,9 @@
 
 - 👨🏻‍💻 My name is Mateo, i’m a JavaScript Developer from Argentina!
 
-- 🎓 I’m currently studying Computer Engineering
+- 🧙‍♂️ Developing on [Braintly](https://braintly.com/).
+
+- 🎓 I’m currently studying Computer Engineering.
 
 - 💬 Talk to me about JavaScript, Open Source and Led Zeppelin.
 

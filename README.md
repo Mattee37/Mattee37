@@ -11,7 +11,7 @@
 </h2>
 
 - 👨🏻‍💻 My name is Mateo, i’m a Web Developer from Argentina!
-  - 🧙‍♂️ Currently developing on [Stensul](https://stensul.com/).
+- 🧙‍♂️ Currently developing on [Stensul](https://stensul.com/).
 - 🎓 I’m currently studying a Technical Degree in Web Development.
 - 💬 Talk to me about **Comics**, **Open Source**, **Led Zeppelin** and **Thrash Metal** 🤟
 
